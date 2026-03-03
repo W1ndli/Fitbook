@@ -21,3 +21,13 @@ FitBook — веб-застосунок для створення власних
 - Користувач може додати замітку.  
 - Замітка відображається у списку.  
 - Замітка може бути відмічена як виконана.  
+
+# FitBook Docs
+
+- [Функціональні вимоги](docs/functional-requirements.md)
+- [Нефункціональні вимоги](docs/non-functional-requirements.md)
+- [User Stories](docs/user-stories.md)
+- [Acceptance Criteria](docs/acceptance-criteria.md)
+- [User Scenarios](docs/user-scenarios.md)
+- [Definition of Done](docs/definition-of-done.md)
+- [High-Level Overview](docs/high-level.md)
