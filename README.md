@@ -22,7 +22,7 @@ FitBook — веб-застосунок для створення власних
 - Замітка відображається у списку.  
 - Замітка може бути відмічена як виконана.  
 
-# FitBook Docs
+# FitBook Документи
 
 - [Функціональні вимоги](docs/functional-requirements.md)
 - [Нефункціональні вимоги](docs/non-functional-requirements.md)
